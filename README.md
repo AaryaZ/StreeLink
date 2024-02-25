@@ -1,6 +1,6 @@
 # StreeLink
 
-A new Flutter project.
+Her Legal Guide
 
 ## Getting Started
 
