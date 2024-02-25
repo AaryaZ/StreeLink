@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBTfwOY49o6vsoDyd14sf824UsWS0ys_WA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>374582279727</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sheroes.shero</string>
+	<key>PROJECT_ID</key>
+	<string>shecure-a77ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shecure-a77ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:374582279727:ios:bedc30c13d7a31f79fd0da</string>
+</dict>
+</plist>

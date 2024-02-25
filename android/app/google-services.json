@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374582279727",
+    "project_id": "shecure-a77ed",
+    "storage_bucket": "shecure-a77ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374582279727:android:838cf7f18d4c89199fd0da",
+        "android_client_info": {
+          "package_name": "com.sheroes.shero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBe4nY9vKLMeNfZ3YZzQ28Q2_uKD02Qpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
