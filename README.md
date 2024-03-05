@@ -1,16 +1,74 @@
-# StreeLink
+<h1 align="center">StreeLink: Her Legal Guide</h1> 
+<div style="display: flex;" >
 
-Her Legal Guide
+<p align="center"> <img src="Images_rm/logovidgif.gif" alt="Streelink Logo" width="300" height="300" align="center"> </p>
+<!--  ![Image](Images_rm/logovidgif.gif) -->
 
-## Getting Started
+</div>
 
-This project is a starting point for a Flutter application.
+Streelink empowers Indian women with legal knowledge and resources, guiding them through challenges and advocating for justice. This app provides a step-by-step guides on how to take specific legal actions or access relevant services, such as filing a complaint, applying for legal aid, or obtaining a protection order.
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Comprehensive legal knowledge base**
+  - *Categorized and Searchable*:   Rights and acts are categorized for easy navigation (e.g., Marriage, Domestic Violence, Inheritance).
+  - *Simple Explanations*:  Complex legal information is simplified and explained in clear, easy-to-understand language.
+- **Actionable guidance**
+  - *Step-by-step guides*: Complex legal processes, like filing a protection order, are broken down into clear, actionable steps.
+  - *Downloadable resources*: Users can download important documents and forms (e.g., petition templates).
+  - *FAQs*:  Answers to frequently asked questions provide clarity on common legal issues.
+-  **Additional resources**
+  - *Helpline & Legal Aid Directory*
+  - *Glossary of legal terms*
+- **NGO Directory**
+- **User-friendly interface**:
+  - *Intuitive Dashboard*
+  - *Search function*
+  - *Offline Accessibility*
+- **Google OAuth for easy user verification**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<hr>
+
+###  Prerequisites
+
+Before you start, make sure you have installed the following on your system:
+
+- Flutter SDK
+- VS Code
+- Dart and Flutter extensions for VS Code
+- Android emulator or physical device
+  
+<hr>
+### 🛠️ Setup
+
+1. Clone the repository from GitHub
+   ```
+   git clone <repository-url>
+   ```
+2. Open the project folder in VS Code.
+
+3. In VS Code, open the command palette (View > Command Palette) and type:
+   ```
+   Flutter: Run Flutter Doctor
+   ```
+   This will check your system to make sure everything is set up correctly.
+
+5. In terminal, run the command to get all the dependencies.
+   ```
+   flutter pub get
+   ```
+6. Configure your Firebase Project for the app.
+7. Run the main.dart file to start the app.
+
+<hr>
+
+
+## About Us
+
+Team Members:
+1. Aarya Zunjarrao
+2. Rupali Rana
+3. Poorva Upadhyay
+4. Omkar Desai
