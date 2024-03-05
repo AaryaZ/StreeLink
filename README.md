@@ -7,9 +7,26 @@
 </div>
 
 Streelink empowers Indian women with legal knowledge and resources, guiding them through challenges and advocating for justice. This app provides a step-by-step guides on how to take specific legal actions or access relevant services, such as filing a complaint, applying for legal aid, or obtaining a protection order.
+<hr>
+
+### UN Sustainable Development Goals
+<table style="width: 80%;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="Images_rm/peace.png" alt="UN Goal 16" width="100" height="100" align="center"> 
+      <p>Peace, Justice and <br>Strong Instituions</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="Images_rm/equality.png" alt="UN Goal 5" width="100" height="100" align="center"> 
+      <p>Gender Equality</p>
+    </td>
+
+  </tr>
+</table>
 
 <hr>
-## Features
+
+### Features
 
 - **Comprehensive legal knowledge base**
   - *Categorized and Searchable*:   Rights and acts are categorized for easy navigation (e.g., Marriage, Domestic Violence, Inheritance).
